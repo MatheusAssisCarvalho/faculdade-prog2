@@ -1,7 +1,9 @@
-# faculdade-prog2-p2
-Prova de Programação 2, do terceiro periodo.
+# faculdade-prog2
+Matéria de Programação 2, do terceiro periodo da faculdade.
 
-Nessa P2, trabalho com struct, ponteiro, função com e sem parametros com os ponteiros. Manipulação de array.
+Nessa matéria, trabalhei com struct, ponteiro, função com e sem parametros com os ponteiros. Manipulação de array.
+
+P2
 
 Pravo de questão única. Enunciado:
 
